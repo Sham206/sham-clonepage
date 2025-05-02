@@ -1,0 +1,127 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1,h3{
+    font-family: "Roboto", sans-serif;
+}
+.main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f2f5;
+    padding-bottom: 55px;
+}
+
+.facebook{
+    color: #0866ff;
+    font-size: 55px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.signup{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding-top: 15px;
+    width: 432px;
+}
+p{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.page{
+    text-align: center;
+    border-bottom: 1px solid #dadde1;
+
+}
+h3{
+    font-size: 25px;
+}
+.input-fields{
+    display: flex;
+    padding: 14px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.half-width{
+    width:48%;
+    display: flex;
+    padding-top: 5px;
+}
+input{
+    padding:12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width:100%;
+}
+.dob{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8px;
+    width:100%;
+}
+label{
+    font-size: 14px;
+    padding-top: 8px;
+    color:#605c5c
+}
+.quater-width{
+    display: flex;
+    width:32%;
+}
+select{
+    padding:12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width:100%;
+}
+.gender{
+    display: flex;
+    justify-content: space-between;
+    width: 28%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 7px;
+}
+.button{
+    width:auto;
+}
+.name{
+        color:black;
+}
+.full-width{
+    display: flex;
+    width: 100%;
+    padding-top: 12px;
+}
+small{
+    padding-top: 8px;
+    color:#605c5c
+}
+
+a{
+    text-decoration:none ;
+}
+.sighup-btn{
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 12px;
+}
+button{
+    color: #ffffff;
+    background-color: #00a400;
+    padding: 7px 65px 7px 65px ;
+    border: none;
+    border-radius: 5px;
+}
+.anchor{
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+}
+.second-page{
+    font-size: 19px;
+    color: #1877f2;
+}
